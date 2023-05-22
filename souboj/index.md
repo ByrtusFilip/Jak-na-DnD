@@ -6,12 +6,12 @@ V této části si rozebereme postup a možnosti, když příjde skupina dobrodr
 Typickým bojovým střetnutím je střet dvou stran, útoky zbraní, finty, odrážení, rychlé pohyby a sesílání kouzel. Hra organizuje chaos boje do cyklu kol a tahů. <i>Kolo představuje v herním světě asi 6 sekund.</i> Během kola se každý účastník bitvy vystřídá. Pořadí tahů je určeno na začátku bojového střetnutí, kdy každý hodí iniciativu. Jakmile se všichni vystřídají, boj pokračuje dalším kolem, pokud ani jedna strana neporazí druhou.
 
 ## Obsah
-[1. Postup boje](## Postup boje)
-[2. Začátek boje: překvapení](## Začátek boje: překvapení)
-[3. Začátek boje: iniciativa](## Začátek boje: iniciativa)
-[4. Řada je na tobě](## Řada je na tobě)
-[5. Pohyb](## Pohyb)
-[5.1 Speciální druhy pohybu](### Speciální druhy pohybu)
+1. [Postup boje](## Postup boje)
+2. [Začátek boje: překvapení](## Začátek boje: překvapení)
+3. [Začátek boje: iniciativa](## Začátek boje: iniciativa)
+4. [Řada je na tobě](## Řada je na tobě)
+5. [Pohyb](## Pohyb)
+5.1 [Speciální druhy pohybu](### Speciální druhy pohybu)
 
 ## Postup boje
 <i>(Pro Pána jeskyně/DM)</i> <b>Určete překvapení.</b> DM určí, zda je někdo zapojený do bojového střetnutí překvapen.
