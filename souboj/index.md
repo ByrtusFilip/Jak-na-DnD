@@ -289,14 +289,14 @@ Pomocí akce Útok můžete provést speciální útok na blízko a **strčit do
 Cíl nesmí být o více než jednu velikost větší než vy a musí být ve vašem dosahu. Namísto hodu na útok provedete kontrolu **síly (atletika)**, která je oponována kontrolou **síly (atletika) nebo obratnosti (akrobacie)** (cíl si zvolí schopnost). Pokud vyhrajete soutěž, buď srazíte cíl na zem, nebo jej odtlačíte 5 stop od sebe.
 
 ### Krytí <a name="krytí"></a>
-Zdi, stromy, stvoření a další překážky mohou poskytnout úkryt během boje, takže je obtížnější ublížit cíli. Cíl může mít prospěch z krytí pouze tehdy, když útok nebo jiný efekt pochází z opačné strany krytí.
-Existují tři stupně krytí. Pokud je cíl za více zdroji krytí, platí pouze nejochrannější stupeň krytí; stupně se nesčítají. Pokud je například cíl za bytostí, která poskytuje poloviční kryt, a kmenem stromu, který poskytuje kryt ze tří čtvrtin, cíl má kryt ze tří čtvrtin.
+Zdi, stromy, stvoření a další překážky mohou poskytnout **úkryt během boje**, takže je obtížnější ublížit cíli. Cíl může mít prospěch z krytí pouze tehdy, když útok nebo jiný efekt pochází z opačné strany krytí.
+Existují tři stupně krytí. Pokud je cíl za více zdrojích krytí, platí pouze **nejochrannější stupeň krytí**; stupně se **nesčítají**. *Pokud je například cíl za bytostí, která poskytuje poloviční kryt, a kmenem stromu, který poskytuje kryt ze tří čtvrtin, cíl má kryt ze tří čtvrtin.*
 
-Terč s polovičním krytemmá bonus +2 k záchranným hodům AC a Obratnosti. Cíl má poloviční krytí, pokud překážka blokuje alespoň polovinu jeho těla. Překážkou může být nízká zeď, velký kus nábytku, úzký kmen stromu nebo stvoření, ať už je to stvoření nepřítel nebo přítel.
+**Cil s polovičním krytem** má bonus +2 k záchranným hodům OČ a Obratnosti. Cíl má poloviční krytí, pokud překážka blokuje alespoň polovinu jeho těla. Překážkou může být nízká zeď, velký kus nábytku, úzký kmen stromu nebo stvoření, ať už je to stvoření nepřítel nebo přítel.
 
-Cíl s tříčtvrtinovým krytím má bonus +5 k záchranným hodům AC a Obratnosti. Cíl má pokrytí ze tří čtvrtin, pokud jsou přibližně tři čtvrtiny pokryty překážkou. Překážkou může být padací mříž, štěrbina šípu nebo silný kmen stromu.
+**Cíl s tříčtvrtinovým krytím** má bonus +5 k záchranným hodům OČ a Obratnosti. Cíl má pokrytí ze tří čtvrtin, pokud jsou přibližně tři čtvrtiny pokryty překážkou. Překážkou může být padací mříž, štěrbina šípu nebo silný kmen stromu.
 
-Cíl s úplným krytím nemůže být zaměřen přímo útokem nebo kouzlem, ačkoli některá kouzla mohou dosáhnout takového cíle tím, že jej zahrnou do oblasti účinku. Cíl má úplné krytí, pokud je zcela zakryt překážkou.
+**Cíl s úplným krytím** nemůže být zaměřen přímo útokem nebo kouzlem, ačkoli některá kouzla mohou dosáhnout takového cíle tím, že jej zahrnou do oblasti účinku. Cíl má úplné krytí, pokud je zcela zakryt překážkou.
 
 
 ### Kritický zásah <a name="Kritický zásah"></a>
