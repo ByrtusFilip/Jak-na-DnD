@@ -6,6 +6,12 @@ V této části si rozebereme postup a možnosti, když příjde skupina dobrodr
 Typickým bojovým střetnutím je střet dvou stran, útoky zbraní, finty, odrážení, rychlé pohyby a sesílání kouzel. Hra organizuje chaos boje do cyklu kol a tahů. <i>Kolo představuje v herním světě asi 6 sekund.</i> Během kola se každý účastník bitvy vystřídá. Pořadí tahů je určeno na začátku bojového střetnutí, kdy každý hodí iniciativu. Jakmile se všichni vystřídají, boj pokračuje dalším kolem, pokud ani jedna strana neporazí druhou.
 
 ## Obsah
+[1. Postup boje](## Postup boje)
+[2. Začátek boje: překvapení](## Začátek boje: překvapení)
+[3. Začátek boje: iniciativa](## Začátek boje: iniciativa)
+[4. Řada je na tobě](## Řada je na tobě)
+[5. Pohyb](## Pohyb)
+[5.1 Speciální druhy pohybu](### Speciální druhy pohybu)
 
 ## Postup boje
 <i>(Pro Pána jeskyně/DM)</i> <b>Určete překvapení.</b> DM určí, zda je někdo zapojený do bojového střetnutí překvapen.
@@ -42,6 +48,38 @@ Mnoho funkcí třídy a dalších schopností poskytuje další možnosti pro va
 
 Ve svém tahu se můžete vzdát pohybu, akce nebo čehokoli jiného. Pokud se nemůžete rozhodnout, co ve svém tahu dělat, zvažte provedení akce <b>Vyhýbání</b> nebo <b>Připravit se</b>.
 
+## Pohyb
+V boji jsou postavy a monstra v neustálém pohybu a často využívají pohyb a pozici k získání převahy.
+
+Ve vašem tahu se můžete posunout o vzdálenost své rychlosti. Ve svém tahu můžete použít tolik nebo jen málo své rychlosti, jak chcete, podle zde uvedených pravidel.
+
+Ve svém tahu můžete svůj pohyb přerušit použitím určité rychlosti před a po akci. Například, pokud máte rychlost 30 stop, můžete se posunout o 10 stop, provést akci a pak se posunout o 20 stop.
+
+### Speciální druhy pohybu
+Váš pohyb může zahrnovat skákání, lezení a plavání. Tyto různé způsoby pohybu lze kombinovat s chůzí nebo mohou představovat celý váš pohyb. Ať se pohybujete jakkoli, odečtete vzdálenost každé části vašeho pohybu od vaší rychlosti, dokud se nespotřebuje nebo dokud se nedokončíte.
+
+### Obtížný terén
+Boj se zřídka odehrává v holých místnostech nebo na nevýrazných pláních. Balvany – poseté jeskyně, vřes – udusané lesy, zrádná schodiště – prostředí typického boje obsahuje obtížný terén.
+
+Každá stopa pohybu v těžkém terénu stojí 1 stopu navíc. Toto pravidlo platí, i když se více věcí v prostoru počítá jako obtížný terén.
+
+Nízký nábytek, suť, podrost, strmé schody, sníh a mělké bažiny jsou příklady obtížného terénu. Prostor jiného tvora, ať už nepřátelského nebo ne, se také počítá jako obtížný terén.
+
+### Nepřítelův prostor
+Můžete se pohybovat prostorem nepřátelského tvora. Naproti tomu se můžete pohybovat prostorem nepřátelského tvora, pouze pokud je tvor alespoň o dvě velikosti větší nebo menší než vy. Pamatujte, že prostor jiného tvora je pro vás **obtížný terén.**
+
+Ať už je tvor přítel nebo nepřítel, nemůžete svůj pohyb v jeho prostoru **dobrovolně ukončit.**
+
+Pokud během svého pohybu opustíte dosah nepřátelské bytosti, vyvoláte **příležitostný útok**, pro bezpečné opuštění prostoru musíte použít **odejít z boje**.
+
+### Náchylný/na lopatkách
+Bojovníci se můžou ocitnout ležet na zemi, buď proto, že jsou sraženi, nebo proto, že se sami vrhnou dolů. Ve hře jsou **složeni na zemi**.
+
+Můžete klesnout na sklonku, aniž byste použili jakoukoli svou rychlost. Vstát vyžaduje více úsilí; to stojí pohyb rovnající se polovině vaší rychlosti.
+Například, pokud je vaše rychlost 30 stop, musíte strávit 15 stop pohybu, abyste se postavili. Nemůžete vstát, pokud nemáte dostatek pohybu nebo pokud je vaše rychlost 0.
+
+Abyste se mohli pohybovat na břiše, musíte se plazit nebo používat magii, jako je teleportace. Každá stopa pohybu při plazení stojí 1 stopu navíc. Plazení 1 stopa v těžkém terénu, tedy stojí 3 stopy pohybu.
+
 ## Akce
 Když ve svém tahu provedete akci, můžete provést jednu ze zde uvedených akcí: akci útoku, kterou zaútočíte na nepřítele, akci, kterou jste získali ze své třídy nebo speciální funkce, nebo akci, kterou improvizujete. Mnoho nestvůr má ve svých statistických blocích vlastní možnosti akcí.
 
@@ -72,9 +110,9 @@ Při splnění úkolu můžete svou **pomoc** půjčit jinému tvorovi. Když pr
 Případně můžete pomoci přátelskému tvorovi zaútočit na tvora do 5 stop od vás. Předstíráte, odlákáte pozornost cíle nebo se nějakým jiným způsobem spojíte, aby byl útok vašeho spojence efektivnější. Pokud váš spojenec zaútočí na cíl před vaším dalším tahem, první hod na útok je proveden s výhodou .
 
 ### Skrýt se
-Když provedete akci Skrýt, provedete kontrolu Obratnosti (Stealth) ve snaze skrýt se podle pravidel pro skrývání . Pokud uspějete, získáte určité výhody, jak je popsáno v části „ Neviditelní útočníci a cíle “.
+Když provedete akci Skrýt, provedete kontrolu Obratnosti (Nenápadnost) ve snaze skrýt se podle pravidel pro skrývání. Pokud uspějete, získáte určité výhody.
 
-#### Připravit se
+### Připravit se
 Někdy chcete skočit na nepřítele nebo počkat na konkrétní okolnost, než začnete jednat. Chcete-li to provést, můžete ve svém tahu provést akci **Připraven**, která vám umožní jednat pomocí reakce před začátkem dalšího tahu.
 
 Nejprve se rozhodnete, jaká vnímatelná okolnost vyvolá vaši reakci. Poté si vyberete akci, kterou provedete v reakci na tento spouštěč, nebo se v reakci na něj rozhodnete zvýšit svou rychlost . Příklady zahrnují: „Pokud kultista šlápne na padací dveře, zatáhnu za páku, která je otevře,“ a „Pokud skřet stoupne vedle mě, vzdálím se.“
@@ -88,4 +126,59 @@ Když provedete akci **Hledat**, věnujete svou pozornost hledání něčeho. V 
 
 ### Použijte objekt
 Normálně interagujete s předmětem, když děláte něco jiného, například když v rámci útoku tasíte meč. Když objekt ke svému použití vyžaduje vaši akci, provedete akci **Použít objekt**. Tato akce je také užitečná, když chcete ve svém tahu komunikovat s více než jedním objektem.
+
+### Další akce které můžete během svého taho dělat
+Váš tah může zahrnovat různé činnosti, které nevyžadují ani vaši akci, ani váš pohyb.
+
+Jak budete na řadě, můžete komunikovat, jak jen dokážete, prostřednictvím krátkých promluv a gest.
+
+Můžete také bezplatně interagovat s jedním objektem nebo funkcí prostředí, ať už během vašeho pohybu nebo vaší akce. Můžete například otevřít dveře během svého pohybu, když kráčíte k nepříteli, nebo můžete **tasit zbraň v rámci stejné akce, kterou používáte k útoku.**
+
+Pokud chcete interagovat s druhým objektem, nebo tasit druhou zbraň, musíte použít svou **akci.** Některé magické předměty a jiné speciální předměty vždy vyžadují k použití akci, jak je uvedeno v jejich popisu.
+
+DM může vyžadovat, abyste použili akci pro kteroukoli z těchto činností, když to vyžaduje zvláštní požadavky nebo když představuje neobvyklou překážku. *Například DM mohl rozumně očekávat, že použijete akci k otevření zaseknutých dveří nebo otočení kliky ke spuštění padacího mostu.*
+
+Další příklady interakcí, které můžete dělat během svého tahu bez použití akce:
+- tasit nebo zasouvat meč do pochvy
+- otevřít nebo zavřít dveře
+- vytáhni lektvar z batohu
+- sebrat upuštěnou sekeru
+- vzít cetku ze stolu
+- sundejte si prsten z prstu
+- nacpat si do úst nějaké jídlo
+- zasadit transparent do země
+- vylovte pár mincí z kapsy na opasku
+- vypijte všechno pivo v láhvi
+- zatáhnout pákou nebo vypínačem
+- vytáhnout pochodeň ze svícnu
+- vezměte knihu z police, na kterou dosáhnete
+- uhasit malý plamen
+- nasadit masku
+- přetáhněte si kapuci svého pláště a přes hlavu
+- přilož ucho ke dveřím
+- kopnout do malého kamene
+- otočit klíčem v zámku
+- poklepejte na podlahu 10stopou tyčí
+- předat předmět jiné postavě
+
+V neposlední řadě je tu
+
+## Bonusová akce
+Různé funkce třídy, kouzla a další schopnosti vám umožňují ve vašem tahu provést další akci, která se nazývá bonusová akce. Funkce **Mazaná** akce například umožňuje třídě **tulák** provést bonusovou akci. 
+
+Bonusovou akci můžete provést pouze tehdy, když **speciální schopnost, kouzlo nebo jiná vlastnost** hry uvádí, že můžete něco udělat jako bonusovou akci. Jinak nemáte žádnou bonusovou akci, kterou byste mohli provést.
+
+Ve svém tahu můžete provést pouze jednu bonusovou akci, takže si musíte vybrat, kterou bonusovou akci použijete, když jich máte k dispozici více.
+Sami si zvolíte, kdy během svého tahu provedete bonusovou akci, pokud není určeno načasování bonusové akce a cokoli, co vás připraví o vaši schopnost provádět akce, vám také zabrání v provedení bonusové akce.
+
+## Reakce
+Některé speciální schopnosti, kouzla a situace vám umožňují provést speciální akci zvanou reakce. Reakce je okamžitá reakce na nějaký druh spouštění, ke kterému může dojít ve vašem tahu nebo na tahu někoho jiného. **Příležitostný útok** je nejběžnějším typem reakce.
+
+Reakce funguje na principu reagování na dění. Například pokud nepřítel opustí tvůj prostor souboje bez použití **Odejít z boje**, můžeš ho potrestat **příležitostným útokem**.
+
+Když zareagujete, nemůžete do začátku dalšího tahu přijmout další. Pokud reakce přeruší tah jiné bytosti, může tato bytost pokračovat ve svém tahu hned po reakci.
+
+## Provedení útoku
+Když už chápeme základní schopnosti a pravidla boje, přichází čas na samotnou akci, na samotný **útok**.
+
 
