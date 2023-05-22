@@ -10,6 +10,9 @@ Váš průvodce DnD. Sám jsem začátečník ale se zápalem pro tuto nádherno
 
 ## Odkazy na obsah
 [Souboj](souboj/index.md)
+[Zbraně](zbraně/index.md)
+[Brnění](brnění/index.md)
+[Kouzla](kouzla/index.md)
 
 ## Co je Dungeons & Dragons
 Dungeons & Dragons (zkráceně jako D&D nebo DnD) je fantasy hra na hrdiny (RPG), vydaná společností Wizards of the Coast. Původní Dungeons & Dragons, vytvořené Garym Gygaxem a Davem Arnesonem, bylo poprvé vydáno v roce 1974 Gygaxovou firmou Tactical Studies Rules (TSR).
