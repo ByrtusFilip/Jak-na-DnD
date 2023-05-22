@@ -22,7 +22,7 @@ DM určí, kdo by mohl být překvapen. Pokud se ani jedna strana nesnaží být
 
 Pokud jste překvapeni, nemůžete se hnout nebo provést akci ve svém prvním tahu v boji a nemůžete reagovat, dokud toto kolo neskončí. Člen skupiny může být překvapen, i když ostatní členové nejsou.
 
-### Příklad
+**Příklad**
 <i>Skupina dobrodruhů se vplíží do tábora banditů , vyskočí ze stromů a napadne je. Želatinová kostka klouže chodbou v kobce, aniž by si ji dobrodruzi všimli, dokud kostka jednoho z nich nepohltí.</i> 
 
 ## Začátek boje: Iniciativa
