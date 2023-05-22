@@ -11,7 +11,7 @@ Typickým bojovým střetnutím je střet dvou stran, útoky zbraní, finty, odr
 3. [Začátek boje: iniciativa](#iniciativa)
 4. [Řada je na tobě](#řada na tobě)
 5. [Pohyb](#pohyb)
-  5.1 [Speciální druhy pohybu](#speciální druhy pohybu)
+    1. [Speciální druhy pohybu](#speciální druhy pohybu)
 
 ## Postup boje <a name="postup boje"></a>
 <i>(Pro Pána jeskyně/DM)</i> <b>Určete překvapení.</b> DM určí, zda je někdo zapojený do bojového střetnutí překvapen.
