@@ -55,25 +55,25 @@ Některé funkce, jako je například funkce **Útok navíc** u **Bojovníka**, 
 ### Seslání kouzla
 Sesilatelé kouzel, jako jsou čarodějové a klerikové, stejně jako mnoho nestvůr, mají přístup ke **kouzlům** a mohou je použít s velkým efektem v boji. Každé kouzlo má dobu sesílání , která určuje, zda sesilatel musí k seslání kouzla použít akci, reakci, minuty nebo dokonce hodiny. Seslání kouzla proto není nutně akce. Většina kouzel má čas seslání 1 akce, takže sesilatel často používá svou akci v boji k seslání takového kouzla.
 
-**Sprint**
+### Sprint
 Když provedete akci **Sprint**, získáte další pohyb pro aktuální tah. Zvýšení se rovná vaší rychlosti po použití jakýchkoli modifikátorů. Například s rychlostí 30 stop se můžete ve svém tahu posunout až o 60 stop, pokud utečete.
 Jakékoli zvýšení nebo snížení vaší rychlosti změní tento dodatečný pohyb o stejnou hodnotu. Pokud je vaše rychlost z 30 stop snížena například na 15 stop, můžete se v této zatáčce posunout až o 30 stop, pokud budete uhánět.
 
-**Odejít z boje**
+### Odejít z boje
 Pokud provedete akci **Odejít z boje**, váš pohyb nevyvolá **příležitostné útoky** po zbytek tahu.
 
-**Vyhnout se**
+### Vyhnout se
 Když podniknete akci **Vyhnout se**, soustředíte se výhradně na vyhýbání se útokům . Do začátku vašeho příštího tahu má jakýkoli hod na útok proti vám nevýhodu, pokud útočníka vidíte, a vy děláte záchranné hody Obratnost s výhodou. Tuto výhodu ztrácíte, pokud jste nezpůsobilí (například kvůli množství a váze vašeho brnění) nebo pokud vaše rychlost klesne na 0.
 
-**Pomoc**
+### Pomoc
 Při splnění úkolu můžete svou **pomoc** půjčit jinému tvorovi. Když provedete akci Help, bytost, které pomáháte, získá výhodu při další kontrole schopností, kterou provede, aby mohla provést úkol, se kterým pomáháte, za předpokladu, že kontrolu provede před začátkem vašeho příštího kola.
 
 Případně můžete pomoci přátelskému tvorovi zaútočit na tvora do 5 stop od vás. Předstíráte, odlákáte pozornost cíle nebo se nějakým jiným způsobem spojíte, aby byl útok vašeho spojence efektivnější. Pokud váš spojenec zaútočí na cíl před vaším dalším tahem, první hod na útok je proveden s výhodou .
 
-**Skrýt se**
+### Skrýt se
 Když provedete akci Skrýt, provedete kontrolu Obratnosti (Stealth) ve snaze skrýt se podle pravidel pro skrývání . Pokud uspějete, získáte určité výhody, jak je popsáno v části „ Neviditelní útočníci a cíle “.
 
-**Připravit se**
+#### Připravit se
 Někdy chcete skočit na nepřítele nebo počkat na konkrétní okolnost, než začnete jednat. Chcete-li to provést, můžete ve svém tahu provést akci **Připraven**, která vám umožní jednat pomocí reakce před začátkem dalšího tahu.
 
 Nejprve se rozhodnete, jaká vnímatelná okolnost vyvolá vaši reakci. Poté si vyberete akci, kterou provedete v reakci na tento spouštěč, nebo se v reakci na něj rozhodnete zvýšit svou rychlost . Příklady zahrnují: „Pokud kultista šlápne na padací dveře, zatáhnu za páku, která je otevře,“ a „Pokud skřet stoupne vedle mě, vzdálím se.“
@@ -82,9 +82,9 @@ Když nastane spouštěč, můžete buď reagovat hned poté, co spoušť skonč
 
 Aby bylo kouzlo připraveno, musí mít čas seslání 1 akce a udržení magie kouzla vyžaduje soustředění . Pokud je vaše soustředění narušeno, kouzlo se rozplyne, aniž by nabylo účinku. Pokud se například soustředíte na kouzlo a připravenou magickou střelu, vaše kouzlo skončí, a pokud utrpíte poškození před vypuštěním magické střely s vaší reakcí může být vaše koncentrace narušena.
 
-**Hledání**
+### Hledání
 Když provedete akci **Hledat**, věnujete svou pozornost hledání něčeho. V závislosti na povaze vašeho hledání vás DM může nechat provést kontrolu moudrosti (vnímání) nebo kontrolu inteligence (pátrání).
 
-**Použijte objekt**
+### Použijte objekt
 Normálně interagujete s předmětem, když děláte něco jiného, například když v rámci útoku tasíte meč. Když objekt ke svému použití vyžaduje vaši akci, provedete akci **Použít objekt**. Tato akce je také užitečná, když chcete ve svém tahu komunikovat s více než jedním objektem.
 
