@@ -25,11 +25,11 @@ Typickým bojovým střetnutím je střet dvou stran, útoky zbraní, finty, odr
     7. [Skrýt se](#skrýt)
     8. [Připravit se](#připravit se)
     9. [Hledání](#hledání)
-    10. [Použít objekt](#použít objekt)
-    11. [Další akce které můžete během svého tahu dělat](#další akce)
 7. [Bonusová akce](#bonusová akce)
-8. [Reakce](#reakce)
-9. [Provedení útoku](#attack roll)
+8. [Interakce](#interakce)
+    1. [Další akce/interakce které můžete během svého tahu dělat](#další akce)
+9. [Reakce](#reakce)
+10. [Provedení útoku](#attack roll)
 
 ## Postup boje <a name="postup boje"></a>
 <i>(Pro Pána jeskyně/DM)</i> <b>Určete překvapení.</b> DM určí, zda je někdo zapojený do bojového střetnutí překvapen.
@@ -142,10 +142,18 @@ Aby bylo kouzlo připraveno, musí mít čas seslání 1 akce a udržení magie 
 ### Hledání <a name="hledání"></a>
 Když provedete akci **Hledat**, věnujete svou pozornost hledání něčeho. V závislosti na povaze vašeho hledání vás DM může nechat provést kontrolu moudrosti (vnímání) nebo kontrolu inteligence (pátrání).
 
-### Použít objekt <a name="použít objekt"></a>
+## Bonusová akce <a name="bonusová akce"></a>
+Různé funkce třídy, kouzla a další schopnosti vám umožňují ve vašem tahu provést další akci, která se nazývá bonusová akce. Funkce **Mazaná** akce například umožňuje třídě **tulák** provést bonusovou akci. 
+
+Bonusovou akci můžete provést pouze tehdy, když **speciální schopnost, kouzlo nebo jiná vlastnost** hry uvádí, že můžete něco udělat jako bonusovou akci. Jinak nemáte žádnou bonusovou akci, kterou byste mohli provést.
+
+Ve svém tahu můžete provést pouze jednu bonusovou akci, takže si musíte vybrat, kterou bonusovou akci použijete, když jich máte k dispozici více.
+Sami si zvolíte, kdy během svého tahu provedete bonusovou akci, pokud není určeno načasování bonusové akce a cokoli, co vás připraví o vaši schopnost provádět akce, vám také zabrání v provedení bonusové akce.
+
+## Interakce <a name="interakce"></a>
 Normálně interagujete s předmětem, když děláte něco jiného, například když v rámci útoku tasíte meč. Když objekt ke svému použití vyžaduje vaši akci, provedete akci **Použít objekt**. Tato akce je také užitečná, když chcete ve svém tahu komunikovat s více než jedním objektem.
 
-### Další akce které můžete během svého tahu dělat <a name="další akce"></a>
+### Další akce/interakce které můžete během svého tahu dělat <a name="další akce"></a>
 Váš tah může zahrnovat různé činnosti, které nevyžadují ani vaši akci, ani váš pohyb.
 
 Jak budete na řadě, můžete komunikovat, jak jen dokážete, prostřednictvím krátkých promluv a gest.
@@ -178,16 +186,6 @@ Další příklady interakcí, které můžete dělat během svého tahu bez pou
 - otočit klíčem v zámku
 - poklepejte na podlahu 10stopou tyčí
 - předat předmět jiné postavě
-
-V neposlední řadě je tu
-
-## Bonusová akce <a name="bonusová akce"></a>
-Různé funkce třídy, kouzla a další schopnosti vám umožňují ve vašem tahu provést další akci, která se nazývá bonusová akce. Funkce **Mazaná** akce například umožňuje třídě **tulák** provést bonusovou akci. 
-
-Bonusovou akci můžete provést pouze tehdy, když **speciální schopnost, kouzlo nebo jiná vlastnost** hry uvádí, že můžete něco udělat jako bonusovou akci. Jinak nemáte žádnou bonusovou akci, kterou byste mohli provést.
-
-Ve svém tahu můžete provést pouze jednu bonusovou akci, takže si musíte vybrat, kterou bonusovou akci použijete, když jich máte k dispozici více.
-Sami si zvolíte, kdy během svého tahu provedete bonusovou akci, pokud není určeno načasování bonusové akce a cokoli, co vás připraví o vaši schopnost provádět akce, vám také zabrání v provedení bonusové akce.
 
 ## Reakce <a name="reakce"></a>
 Některé speciální schopnosti, kouzla a situace vám umožňují provést speciální akci zvanou reakce. Reakce je okamžitá reakce na nějaký druh spouštění, ke kterému může dojít ve vašem tahu nebo na tahu někoho jiného. **Příležitostný útok** je nejběžnějším typem reakce.
