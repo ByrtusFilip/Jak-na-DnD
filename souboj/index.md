@@ -41,6 +41,14 @@ Typickým bojovým střetnutím je střet dvou stran, útoky zbraní, finty, odr
     8. [Popadnout](#popadnout)
     9. [Strčit](#strčit)
     10. [Krytí](#krytí)
+12. [Poškození a léčení](#poškození a léčení)
+13. [Hod na poškození](#damage roll)
+    1. [Typy poškození](#typy poškození)
+    2. [Odolnost proti poškození a zranitelnost](#odolnost a zranitelnost)
+14. [Kritický zásah](#kritický zásah)
+15. [Léčení](#léčení)
+    1. [Snížení na 0 životů](#0 životů)
+    2. [Dočasné životy](#dočasné životy)
 
 ## Postup boje <a name="postup boje"></a>
 <i>(Pro Pána jeskyně/DM)</i> <b>Určete překvapení.</b> DM určí, zda je někdo zapojený do bojového střetnutí překvapen.
