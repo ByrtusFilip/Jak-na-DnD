@@ -32,6 +32,15 @@ Typickým bojovým střetnutím je střet dvou stran, útoky zbraní, finty, odr
 10. [Provedení útoku](#provedení útoku)
 11. [Hod na útok](#attack roll)
     1. [Modifikátory hodu](#modifikátor hodu)
+    2. [Útok na skryté nepřátele](#útok na skryté nepřátele)
+    3. [Útoky na dálku](#útoky na dálku)
+    4. [Útok na dálku v blízké vzdálenosti](#útok na dálku v blízké vzdálenosti)
+    5. [Útok na blízko](#útok na blízko)
+    6. [Příležitostný útok](#příležitostný útok)
+    7. [Boj s dvěma zbraněmi](#boj s dvěma zbraněmi)
+    8. [Popadnout](#popadnout)
+    9. [Strčit](#strčit)
+    10. [Krytí](#krytí)
 
 ## Postup boje <a name="postup boje"></a>
 <i>(Pro Pána jeskyně/DM)</i> <b>Určete překvapení.</b> DM určí, zda je někdo zapojený do bojového střetnutí překvapen.
