@@ -29,7 +29,9 @@ Typickým bojovým střetnutím je střet dvou stran, útoky zbraní, finty, odr
 8. [Interakce](#interakce)
     1. [Další akce/interakce které můžete během svého tahu dělat](#další akce)
 9. [Reakce](#reakce)
-10. [Provedení útoku](#attack roll)
+10. [Provedení útoku](#provedení útoku)
+11. [Hod na útok](#attack roll)
+    1. [Modifikátory hodu](#modifikátor hodu)
 
 ## Postup boje <a name="postup boje"></a>
 <i>(Pro Pána jeskyně/DM)</i> <b>Určete překvapení.</b> DM určí, zda je někdo zapojený do bojového střetnutí překvapen.
@@ -187,6 +189,8 @@ Další příklady interakcí, které můžete dělat během svého tahu bez pou
 - poklepejte na podlahu 10stopou tyčí
 - předat předmět jiné postavě
 
+A další...
+
 ## Reakce <a name="reakce"></a>
 Některé speciální schopnosti, kouzla a situace vám umožňují provést speciální akci zvanou reakce. Reakce je okamžitá reakce na nějaký druh spouštění, ke kterému může dojít ve vašem tahu nebo na tahu někoho jiného. **Příležitostný útok** je nejběžnějším typem reakce.
 
@@ -194,7 +198,97 @@ Reakce funguje na principu reagování na dění. Například pokud nepřítel o
 
 Když zareagujete, nemůžete do začátku dalšího tahu přijmout další. Pokud reakce přeruší tah jiné bytosti, může tato bytost pokračovat ve svém tahu hned po reakci.
 
-## Provedení útoku <a name="attack roll"></a>
+## Provedení útoku <a name="provedení útoku"></a>
 Když už chápeme základní schopnosti a pravidla boje, přichází čas na samotnou akci, na samotný **útok**.
 
+Ať už útočíte zbraní na blízko, střílíte ze zbraně na dálku nebo provádíte hod na útok jako součást kouzla, útok má jednoduchou strukturu.
+
+**Vyberte si cíl**. Vyberte si cíl v dosahu vašeho útoku: bytost, předmět nebo místo.
+
+**Určete modifikátory**. DM určuje, zda má cíl krytí a zda máte proti cíli výhodu nebo nevýhodu. Kromě toho mohou kouzla, speciální schopnosti a další efekty uplatňovat postihy nebo bonusy k vašemu hodu na útok.
+
+**Vyřešte útok**. Provedete **hod na útok**. Při zásahu, **házíte zranění**, pokud konkrétní útok nemá pravidla, která určují jinak. Některé útoky způsobují kromě poškození nebo místo něj i speciální efekty.
+
+Pokud se někdy objeví nějaká otázka, zda se něco, co děláte, počítá jako útok, pravidlo je jednoduché: pokud provádíte hod na útok, provádíte útok.
+
+## Hod na útok <a name="attack roll"></a>
+**Když provedete útok, váš hod na útok určuje, zda útok zasáhne nebo mine**. 
+
+Chcete-li provést hod na útok, hoďte k20 a přidejte příslušné modifikátory. Pokud se součet hodů plus modifikátorů rovná nebo překračuje obranné číslo cíle (OČ), útok zasáhne. OČ postavy se určuje při vytváření postavy, zatímco OČ nestvůry je v jejím bloku statistik.
+
+### Modifikátory hodu <a name="modifikátor hodu"></a>
+Když postava hodí na útok, dva nejběžnější modifikátory hodu jsou modifikátor schopností a bonus za odbornost/zdatnost postavy. Když nestvůra hodí na útok, použije jakýkoli modifikátor, který má v bloku statistik.
+
+**Modifikátor schopnosti**: Modifikátor schopnosti používaný pro **útok zbraní na blízko** je **Síla** a modifikátor schopnosti používaný pro útok **zbraní na dálku** je **Obratnost**. Zbraně, které mají fines (šikovné) nebo házenou vlastnost, toto pravidlo porušují (šikovné zbraně mohou používat buď sílu nebo obratnost). Některá kouzla také vyžadují hod na útok. Modifikátor schopnosti použitý pro útok kouzla závisí na schopnosti sesílat zaklínadla dané postavy a třídy. (u bardů je to Charisma, u Druidů je to Moudrost, atd.)
+
+**Bonus za odbornost/zdatnost**: K hodu na útok přidáte bonus za svou odbornost/zdatnost, když útočíte pomocí zbraně, **kterou ovládáte**, a také když **útočíte kouzlem.**
+
+**Hození 1 nebo 20**
+
+Někdy osud požehná nebo prokleje bojovníka, takže nováček zasáhne a veterán mine.
+
+Pokud je hod k20 na útok 20, útok zasáhne **bez ohledu na jakékoli modifikátory nebo OČ cíle**. Tomu se říká **kritický zásah.**
+
+Pokud je hod k20 na útok 1, útok **mine bez ohledu na jakékoli modifikátory nebo OČ cíle.**
+
+### Útok na skryté nepřátele <a name="útok na skryté nepřátele"></a>
+Bojovníci se často snaží uniknout pozornosti svých nepřátel tím, že se schovávají, sesílají kouzla neviditelnosti nebo číhají ve tmě.
+
+Když zaútočíte na cíl, který nevidíte, máte **nevýhodu v hodu na útok**. To platí, ať už tipujete polohu cíle nebo míříte na tvora, kterého slyšíte, ale nevidíte. Pokud cíl není v lokaci, na kterou jste cílili, automaticky minete, ale DM obvykle jen řekne, že útok minul, nikoli to, zda jste správně uhodli polohu cíle.
+
+Když tě bytost nevidí, máš výhodu v hodech na útok proti ní. Pokud jste skryti – neviditelní i neslyšení – když provádíte útok, **prozradíte svou polohu, když útok zasáhne nebo mine.**
+
+### Útoky na dálku <a name="útoky na dálku"></a>
+Útoky na dálku můžete provádět pouze proti cílům v určeném rozsahu.
+Pokud má útok na dálku, jako je například kouzlo, jeden daný dosah, nemůžete zaútočit na cíl mimo tento rozsah.
+
+Některé útoky na dálku, jako jsou ty prováděné dlouhým nebo krátkým lukem, mají dva dosahy. Menší číslo je normální dosah a větší číslo je dlouhý dosah. Váš hod na útok má nevýhodu, když je váš cíl mimo normální dostřel a nemůžete zaútočit na cíl mimo velkou vzdálenost.
+
+### Útok na dálku v blízké vzdálenosti <a name="útok na dálku v blízké vzdálenosti"></a>
+Zamířit útok na dálku je obtížnější, když je vedle vás nepřítel. Když provedete útok na dálku se zbraní, kouzlem nebo nějakým jiným způsobem, máte nevýhodu v hodu na útok, pokud jste do 5 stop od nepřátelského tvora, který vás vidí a který není nezpůsobilý nebo omráčený.
+
+### Útoky na blízko <a name="útoky na blízko"></a>
+Útok na blízko vám umožňuje zaútočit na nepřítele ve vašem dosahu. Útok na blízko obvykle používá ruční zbraň, jako je meč, válečné kladivo nebo sekera. 
+
+Typické monstrum provede útok zblízka, když udeří svými drápy, rohy, zuby, chapadly nebo jinou částí těla. Několik kouzel také zahrnuje provedení útoku na blízko. Většina tvorů má dosah 5 stop a mohou tak při útoku na blízko zaútočit na cíle do 5 stop od nich. Některá stvoření (typicky větší než střední) mají útoky na blízko s dosahem větší než 5 stop, jak je uvedeno v jejich popisech. 
+
+Místo použití zbraně k útoku zbraní na blízko můžete použít **úder beze zbraně**: úder pěstí, kop, úder hlavou nebo podobný silný úder (žádný z nich se nepočítá jako zbraně). Při zásahu způsobí úder beze zbraně **úderné poškození rovné 1 + váš modifikátor.** Jste **zdatní** ve svých neozbrojených úderech.
+
+### Příležitostný útok <a name="příležitostný útok"></a>
+V boji všichni neustále sledují šanci zasáhnout nepřítele, který prchá nebo prochází kolem. Takový úder se nazývá **příležitostný útok.**
+Příležitostný útok můžete provést, když se nepřátelský tvor, kterého vidíte, přesune mimo váš dosah (vaše zóna boje - 5 stop). Chcete-li provést příležitostný útok, použijete svou **reakci** k jednomu útoku na blízko proti provokujícímu tvorovi. K útoku dojde těsně předtím, než tvor opustí váš dosah.
+
+Vyvolání příležitostného útoku se můžete vyhnout tím, že **odejdete z boje**. Také nevyvoláte příležitostný útok, když se teleportujete nebo když s vámi někdo nebo něco pohne, aniž byste použili váš pohyb, akci nebo reakci. Například nevyvoláte příležitostný útok, pokud vás výbuch odhodí z dosahu nepřítele nebo pokud gravitace způsobí, že propadnete kolem nepřítele.
+
+### Boj s dvěma zbraněmi <a name="boj s dvěma zbraněmi"></a>
+Když provedete akci Útok a zaútočíte lehkou zbraní na blízko, kterou držíte v jedné ruce, můžete použít **bonusovou akci k útoku jinou lehkou zbraní** na blízko, kterou držíte v **druhé ruce**. K poškození bonusového útoku **nepřidáváte svůj modifikátor schopnosti**, pokud tento modifikátor není záporný.
+
+Pokud má kterákoli zbraň vlastnost hozené, můžete ji hodit, místo abyste s ní zaútočili na blízko.
+
+### Popadnout <a name="popadnout"></a>
+Když chcete chytit stvoření nebo s ním zápasit, můžete pomocí akce Útok provést speciální útok na blízko, **popadnout**. Pokud jste schopni provést více útoků pomocí akce Útok, tento útok nahradí jeden z nich.
+
+Cíl vašeho popadnutí nesmí být o více než jednu velikost větší než vy a musí být ve vašem dosahu. S použitím alespoň jedné volné ruky se pokusíte zmocnit cíle tím, že místo hodu na útok provedete kontrolu popadnutí: **kontrola síly (atletika)** je oponována **kontrolou síly (atletika)** nebo **obratnosti (akrobacie)** cíle (cíl volí schopnost). Pokud uspějete, vystavíte cíl uvíznutému stavu (nemůže se samovolně hýbat a útočit, dokud se nevymaní). Podmínka určuje věci, které ji ukončují, a cíl můžete uvolnit, kdykoli budete chtít (nevyžaduje se žádná akce).
+
+**Vymanit se popadnutí**: Uchvácená bytost může použít svou akci k útěku. Chcete-li tak učinit, musí uspět v **kontrole síly (atletika)** nebo **obratnosti (akrobacie)**, která je oponována kontrolou vaší **síly (atletika)**.
+
+**Pohyb popadnutého tvora**: Když se pohybujete, můžete uchopeného tvora táhnout nebo nést s sebou, ale vaše rychlost je poloviční, pokud tvor není o dvě nebo více velikostí menší než vy.
+
+### Strčit <a name="strčit"></a>
+Pomocí akce Útok můžete provést speciální útok na blízko a **strčit do tvora, buď ho srazit na zem, nebo odstrčit od sebe**. Pokud jste schopni provést více útoků pomocí akce Útok, tento útok nahradí jeden z nich.
+
+Cíl nesmí být o více než jednu velikost větší než vy a musí být ve vašem dosahu. Namísto hodu na útok provedete kontrolu **síly (atletika)**, která je oponována kontrolou **síly (atletika) nebo obratnosti (akrobacie)** (cíl si zvolí schopnost). Pokud vyhrajete soutěž, buď srazíte cíl na zem, nebo jej odtlačíte 5 stop od sebe.
+
+### Krytí <a name="krytí"></a>
+Zdi, stromy, stvoření a další překážky mohou poskytnout úkryt během boje, takže je obtížnější ublížit cíli. Cíl může mít prospěch z krytí pouze tehdy, když útok nebo jiný efekt pochází z opačné strany krytí.
+Existují tři stupně krytí. Pokud je cíl za více zdroji krytí, platí pouze nejochrannější stupeň krytí; stupně se nesčítají. Pokud je například cíl za bytostí, která poskytuje poloviční kryt, a kmenem stromu, který poskytuje kryt ze tří čtvrtin, cíl má kryt ze tří čtvrtin.
+
+Terč s polovičním krytemmá bonus +2 k záchranným hodům AC a Obratnosti. Cíl má poloviční krytí, pokud překážka blokuje alespoň polovinu jeho těla. Překážkou může být nízká zeď, velký kus nábytku, úzký kmen stromu nebo stvoření, ať už je to stvoření nepřítel nebo přítel.
+
+Cíl s tříčtvrtinovým krytím má bonus +5 k záchranným hodům AC a Obratnosti. Cíl má pokrytí ze tří čtvrtin, pokud jsou přibližně tři čtvrtiny pokryty překážkou. Překážkou může být padací mříž, štěrbina šípu nebo silný kmen stromu.
+
+Cíl s úplným krytím nemůže být zaměřen přímo útokem nebo kouzlem, ačkoli některá kouzla mohou dosáhnout takového cíle tím, že jej zahrnou do oblasti účinku. Cíl má úplné krytí, pokud je zcela zakryt překážkou.
+
+
+### Kritický zásah <a name="Kritický zásah"></a>
 
