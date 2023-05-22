@@ -6,14 +6,14 @@ V této části si rozebereme postup a možnosti, když příjde skupina dobrodr
 Typickým bojovým střetnutím je střet dvou stran, útoky zbraní, finty, odrážení, rychlé pohyby a sesílání kouzel. Hra organizuje chaos boje do cyklu kol a tahů. <i>Kolo představuje v herním světě asi 6 sekund.</i> Během kola se každý účastník bitvy vystřídá. Pořadí tahů je určeno na začátku bojového střetnutí, kdy každý hodí iniciativu. Jakmile se všichni vystřídají, boj pokračuje dalším kolem, pokud ani jedna strana neporazí druhou.
 
 ## Obsah
-1. [Postup boje](## Postup boje)
-2. [Začátek boje: překvapení](## Začátek boje: překvapení)
-3. [Začátek boje: iniciativa](## Začátek boje: iniciativa)
-4. [Řada je na tobě](## Řada je na tobě)
-5. [Pohyb](## Pohyb)
-5.1 [Speciální druhy pohybu](### Speciální druhy pohybu)
+1. [Postup boje](#postup boje)
+2. [Začátek boje: překvapení](#překvapení)
+3. [Začátek boje: iniciativa](#iniciativa)
+4. [Řada je na tobě](#řada na tobě)
+5. [Pohyb](#pohyb)
+  5.1 [Speciální druhy pohybu](#speciální druhy pohybu)
 
-## Postup boje
+## Postup boje <a name="postup boje"></a>
 <i>(Pro Pána jeskyně/DM)</i> <b>Určete překvapení.</b> DM určí, zda je někdo zapojený do bojového střetnutí překvapen.
 
 <i>(Pro Pána jeskyně/DM)</i> <b>Stanovit pozice:</b> DM rozhodne, kde se nacházejí všechny postavy a monstra. Vzhledem k pochodovému rozkazu dobrodruhů nebo jejich uvedeným pozicím v místnosti.
@@ -23,7 +23,7 @@ Střídejte se. Každý účastník bitvy se střídá v pořadí iniciativy. <i
 
 <b>Začněte další kolo:</b> Když se všichni zúčastnění v boji dostali na řadu, kolo končí. Opakujte, dokud boj neustane.
 
-## Začátek boje: překvapení
+## Začátek boje: překvapení <a name="překvapení"></a>
 DM určí, kdo by mohl být překvapen. Pokud se ani jedna strana nesnaží být kradmá/tajná, automaticky si všimnou jeden druhého. Jinak DM porovnává kontroly Obratnosti (Nenápadnost) kohokoli, kdo se skrývá, s pasivním skóre moudrosti (Vnímání) každé bytosti na protější straně. Jakákoli postava nebo monstrum, které si nevšimne hrozby, je na začátku střetnutí překvapeno.
 
 Pokud jste překvapeni, nemůžete se hnout nebo provést akci ve svém prvním tahu v boji a nemůžete reagovat, dokud toto kolo neskončí. Člen skupiny může být překvapen, i když ostatní členové nejsou.
@@ -32,14 +32,14 @@ Pokud jste překvapeni, nemůžete se hnout nebo provést akci ve svém prvním 
 
 <i>Skupina dobrodruhů se vplíží do tábora banditů , vyskočí ze stromů a napadne je. Želatinová kostka klouže chodbou v kobce, aniž by si ji dobrodruzi všimli, dokud kostka jednoho z nich nepohltí.</i> 
 
-## Začátek boje: Iniciativa
+## Začátek boje: Iniciativa <a name="iniciativa"></a>
 <b>Iniciativa určuje pořadí tahů během boje.</b> Když začne boj, každý účastník provede <b>kontrolu Obratnosti</b>, aby určil své místo v pořadí iniciativy. DM hodí jeden hod pro celou skupinu identických tvorů/bestií/nepřátel, takže každý člen skupiny protivníků jedná ve stejnou dobu.
 
 DM seřadí bojovníky v pořadí od jednoho s nejvyšším součtem kontroly obratnosti po toho s nejnižším (nejvyšší číslo jde jako první, nejnižší jako poslední). Toto je pořadí (nazývané iniciativní pořadí), ve kterém jednají během každého kola. Pořadí iniciativy zůstává kolo od kola daného souboje stejné.
 
 Pokud dojde k remíze, DM rozhodne o pořadí mezi tvory ovládanými DM a hráči rozhodnou o pořadí mezi svými shodnými postavami. DM může rozhodnout o pořadí, pokud je remíza mezi monstrem a hráčskou postavou. Volitelně může DM nechat postavy a nestvůry, aby každá hodila d20 k určení pořadí, přičemž nejvyšší hod bude první.
 
-## Řada je na tobě
+## Řada je na tobě <a name="řada na tobě"></a>
 
 Ve svém tahu se můžete <b>pohybovat</b> podle tvé rychlosti a provést nějakou z akcí: <b>akci, bonusovou akci, interakci, reakci.</b>
 
@@ -48,24 +48,24 @@ Mnoho funkcí třídy a dalších schopností poskytuje další možnosti pro va
 
 Ve svém tahu se můžete vzdát pohybu, akce nebo čehokoli jiného. Pokud se nemůžete rozhodnout, co ve svém tahu dělat, zvažte provedení akce <b>Vyhýbání</b> nebo <b>Připravit se</b>.
 
-## Pohyb
+## Pohyb <a name="pohyb"></a>
 V boji jsou postavy a monstra v neustálém pohybu a často využívají pohyb a pozici k získání převahy.
 
 Ve vašem tahu se můžete posunout o vzdálenost své rychlosti. Ve svém tahu můžete použít tolik nebo jen málo své rychlosti, jak chcete, podle zde uvedených pravidel.
 
 Ve svém tahu můžete svůj pohyb přerušit použitím určité rychlosti před a po akci. Například, pokud máte rychlost 30 stop, můžete se posunout o 10 stop, provést akci a pak se posunout o 20 stop.
 
-### Speciální druhy pohybu
+### Speciální druhy pohybu <a name="speciální druhy pohybu"></a>
 Váš pohyb může zahrnovat skákání, lezení a plavání. Tyto různé způsoby pohybu lze kombinovat s chůzí nebo mohou představovat celý váš pohyb. Ať se pohybujete jakkoli, odečtete vzdálenost každé části vašeho pohybu od vaší rychlosti, dokud se nespotřebuje nebo dokud se nedokončíte.
 
-### Obtížný terén
+### Obtížný terén <a name="obtížný terén"></a>
 Boj se zřídka odehrává v holých místnostech nebo na nevýrazných pláních. Balvany – poseté jeskyně, vřes – udusané lesy, zrádná schodiště – prostředí typického boje obsahuje obtížný terén.
 
 Každá stopa pohybu v těžkém terénu stojí 1 stopu navíc. Toto pravidlo platí, i když se více věcí v prostoru počítá jako obtížný terén.
 
 Nízký nábytek, suť, podrost, strmé schody, sníh a mělké bažiny jsou příklady obtížného terénu. Prostor jiného tvora, ať už nepřátelského nebo ne, se také počítá jako obtížný terén.
 
-### Nepřítelův prostor
+### Nepřítelův prostor <a name="nepřítelův prostor"></a>
 Můžete se pohybovat prostorem nepřátelského tvora. Naproti tomu se můžete pohybovat prostorem nepřátelského tvora, pouze pokud je tvor alespoň o dvě velikosti větší nebo menší než vy. Pamatujte, že prostor jiného tvora je pro vás **obtížný terén.**
 
 Ať už je tvor přítel nebo nepřítel, nemůžete svůj pohyb v jeho prostoru **dobrovolně ukončit.**
