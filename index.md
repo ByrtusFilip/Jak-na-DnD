@@ -2,6 +2,7 @@
 <i>Stránka věnovaná českému popisu a vysvětlení fungování TTRPG hry Dungeons & Dragons</i>
 
 Celá podstata této stránky je pomoci novým hráčům ale i zatvrzelým veteránům ujastnit, objastnit a připomenout podstatné základy DnD, které by se měly uplatňovat ve Vašich hrách.
+
 <img src="dnd-banner.png" alt="Banner s vizuálem dungeons and dragons">
 
 ## Já jsem Feela
