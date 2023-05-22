@@ -298,6 +298,113 @@ Existují tři stupně krytí. Pokud je cíl za více zdrojích krytí, platí p
 
 **Cíl s úplným krytím** nemůže být zaměřen přímo útokem nebo kouzlem, ačkoli některá kouzla mohou dosáhnout takového cíle tím, že jej zahrnou do oblasti účinku. Cíl má úplné krytí, pokud je zcela zakryt překážkou.
 
+## Poškození a léčení <a name="poškození a léčení"></a>
+Zranění a riziko smrti jsou stálými společníky těch, kteří zkoumají fantasy herní světy. Úder meče, dobře zasažený šíp nebo světlo plamene z kouzla ohnivé koule – to vše má potenciál poškodit nebo dokonce zabít i ty nejodolnější tvory.
 
-### Kritický zásah <a name="Kritický zásah"></a>
+Životní body představují kombinaci fyzické a duševní odolnosti, vůle žít a štěstí. Tvory s více životy je těžší zabít. Ti s menším počtem životů jsou křehčí.
 
+Aktuální životy bytosti mohou být jakékoli číslo od maxima života bytosti až po 0. Toto číslo se často mění, když bytost utrpí zranění nebo se uzdraví.
+
+Kdykoli bytost utrpí zranění, toto poškození se odečte od jejích životů. Ztráta životů nemá žádný vliv na schopnosti bytosti, dokud bytost neklesne na 0 životů.
+
+## Hod na poškození <a name="damage roll"></a>
+Každá zbraň, kouzlo a schopnost škodlivého monstra specifikuje poškození, které způsobí. Hodíte kostkou nebo kostkou poškození, přidáte jakékoli modifikátory a aplikujete poškození na svůj cíl. Magické zbraně, speciální schopnosti a další faktory mohou poskytnout bonus k poškození. S penalizací je možné udělit 0 poškození, ale nikdy negativní poškození.
+
+Když útočíte zbraní, přidáte ke zranění svůj **modifikátor schopnosti** — *stejný modifikátor, jaký se používá při hodu na útok.* Kouzlo vám řekne , kterou kostkou hodit na poškození a zda přidat nějaké modifikátory. Pokud kouzlo nebo jiný efekt způsobí poškození více než jednomu cíli současně, hoďte poškození **jednou za všechny**. Například, když čaroděj vrhá ohnivou kouli nebo klerik vrhá plamenný úder, poškození kouzla je hozeno jednou za všechny bytosti zachycené výbuchem.
+
+### Typy poškození <a name="typy poškození"></a>
+Různé útoky, škodlivá kouzla a další škodlivé efekty způsobují různé typy poškození. Typy poškození nemají žádná vlastní pravidla, ale jiná pravidla, jako je **odolnost proti poškození**, závisí na typech a statistikách nepřátel.
+
+Následují typy poškození:
+
+- Kyselina : Korozivní sprška dechu černého draka a rozpouštěcí enzymy vylučované černým pudinkem způsobují poškození kyselinou.
+- Tupé : Útoky tupou silou – kladiva , pády , sevření a podobně – způsobí údery.
+- Chladné : Pekelný chlad vyzařující z ledového ďáblakopí a mrazivý výbuch dechu bílého draka způsobí chladné poškození.
+- Ohnivé : Červení draci dýchají oheň a mnoho kouzel vykouzlí plameny a způsobí poškození ohněm.
+- Sílové : Síla je čistá magická energie zaměřená do ničivé formy. Většina efektů, které způsobují silové poškození, jsou kouzla, včetně magické střely a duchovní zbraně.
+- Bleskové : Kouzlo blesku a dech modrého draka způsobí poškození bleskem.
+- Necrotické : Nekrotické poškození, způsobené určitými nemrtvými a kouzlem, jako je chill touch, vadne hmota a dokonce i duše.
+- Propichování : Propichovací a napichovací útoky, včetně oštěpů a kousnutí příšer, způsobují bodavé poškození.
+- Jed : Jedovatá bodnutí a toxický plyn dechu zeleného draka způsobují jedové poškození.
+- Psychické : Mentální schopnosti, jako je psionický výbuch mysliveckého flayeru, způsobují psychické poškození.
+- Paprskovité : Paprskové světlo, způsobené klerikovým plamenným kouzlem nebo andělskou udeřící zbraní, sežehne maso jako oheň a přetíží ducha silou.
+- Řezné : Meče, sekery a drápy monster způsobují sekání poškození.
+- Hromové : Otřesný výbuch zvuku, jako je účinek kouzla hromová vlna, způsobí poškození hromu.
+
+### Odolnost proti poškození a zranitelnost <a name="odolnost a zranitelnost"></a>
+Některá stvoření a předměty je mimořádně obtížné nebo neobvyklé snadno zranit určitými typy poškození.
+
+Pokud má bytost nebo předmět **odolnost** vůči typu poškození, **poškození tohoto typu se proti němu sníží na polovinu.** Pokud má bytost nebo předmět **zranitelnost** vůči typu poškození, **poškození tohoto typu se proti němu zdvojnásobí.**
+
+Odolnost a zranitelnost se uplatní po všech ostatních modifikátorech poškození. *Například bytost má odolnost vůči údernému zranění a je zasažena útokem, který způsobí 25 bodů úderného poškození. Tvor je také v magické auře, která snižuje veškeré poškození o 5. Poškození 25 se nejprve sníží o 5 a poté na polovinu, takže tvor utrpí poškození 10.*
+
+Více případů odolnosti nebo zranitelnosti, které ovlivňují stejný typ poškození, se počítá pouze jako jedna instance. Pokud má například bytost odolnost vůči poškození ohněm i odolnost vůči všem nemagickým zraněním, **poškození způsobené nemagickým ohněm se vůči bytosti sníží o polovinu, nikoli o tři čtvrtiny.**
+
+## Kritický zásah <a name="kritický zásah"></a>
+Když dosáhnete kritického zásahu *(hod na útok byl 20)*, můžete hodit kostkami na poškození navíc za poškození způsobené útokem na cíl. Hoďte **dvakrát všemi kostkami poškození útoku a sečtěte je**. Poté přidejte všechny relevantní modifikátory jako obvykle. Pro urychlení hry můžete hodit všechny kostky poškození najednou.
+
+Pokud například dosáhnete kritického zásahu dýkou, hoďte za poškození **2k4, nikoli 1k4,** a poté přidejte svůj příslušný modifikátor schopnosti. Pokud útok zahrnuje další kostky poškození, například z funkce plíživého útoku tuláka, hodíte těmito kostkami **také dvakrát.**
+
+## Léčení <a name="léčení"></a>
+Pokud to nevede ke smrti, poškození není trvalé. I smrt je vratná pomocí mocné magie. 
+
+Odpočinek může obnovit životy bytosti a magické metody, jako je kouzlo vyléčit zranění nebo lektvar léčení, mohou okamžitě odstranit poškození. Když bytost obdrží léčení jakéhokoli druhu, znovu získané životy se přičtou k jejím aktuálním životům. 
+
+Životní body bytosti **nemohou překročit její maximum,** takže všechny životy znovu získané nad tento počet jsou ztraceny. 
+
+*Například druid udělí hraničáři 8 životů léčení. Pokud má hraničář 14 aktuálních životů a má maximum životů 20, hraničář získá od druida zpět 6 životů, ne 8.* 
+
+Bytost, která zemřela, nemůže znovu získat životy, dokud ho magie, jako je kouzlo oživení, neobnoví k životu.
+
+### Snížení na 0 životů <a name="0 životů"></a>
+Když klesnete na 0 životů, buď přímo zemřete, nebo upadnete do bezvědomí , jak je vysvětleno v následujících částech.
+
+**Okamžitá smrt**
+
+Masivní poškození vás může okamžitě zabít. Když vám poškození sníží na 0 životů a zbývá poškození, zemřete, pokud se **zbývající poškození rovná nebo překročí vaše maximum životů.**
+
+*Například duchovní s maximálně 12 životy má aktuálně 6 životů. Pokud utrpí 18 poškození z útoku, sníží se na 0 životů, ale zůstane 12 poškození. Protože zbývající poškození se rovná jejímu maximu životů, duchovní zemře.*
+
+**Upadnutí do bezvědomí**
+
+Pokud vám poškození sníží na 0 životů a nepodaří se vám zabít, upadnete do **bezvědomí** (leží na zemi, nemůže se hýbat, útočit, provádět akce a kouzla, ani mluvit). Toto bezvědomí končí, pokud znovu získáte nějaké životy.
+
+**Záchranné hody smrti**
+
+Kdykoli začínáte svůj tah s 0 životy, musíte provést speciální **záchranný hod**, nazývaný hod zachraňující smrt, abyste určili, zda se přiblížíte ke smrti, nebo zůstanete se životem. Na rozdíl od jiných záchranných hodů není tento vázán na žádné skóre schopností. Nyní jste v rukou osudu, pomáhají vám pouze kouzla a funkce, které zvyšují vaše šance na úspěch při záchranném hodu.
+
+**Hod k20**: Pokud je hod **10 nebo vyšší, uspějete.** Hod pod 10 je neúspěch. Úspěch nebo neúspěch sám o sobě nemá žádný účinek. Při **třetím úspěchu se stanete stabilní.** Při **třetím selhání zemřete.** Úspěchy a neúspěchy nemusí být po sobě jdoucí; sledujte oba, dokud nenasbíráte trojici. Počet obou se vynuluje, když znovu získáte nějaké životy nebo se ustálíte.
+
+**Hod 1 nebo 20**: Když provedete hod na záchranu smrti a hodíte 1 na k20, počítá se to jako dvě selhání. Pokud hodíte 20 na k20, získáte zpět 1 život a získáte vědomí.
+
+**Poškození při 0 životech**: Pokud utrpíte jakékoli poškození, zatímco máte 0 životů, utrpíte **1 selhání záchranného hodu**. Pokud je poškození způsobeno kritickým zásahem, utrpíte místo toho **dvě selhání**. Pokud se poškození **rovná nebo překročí váš maximální počet životů, utrpíte okamžitou smrt.**
+
+**Stabilizace stvoření**
+
+Nejlepší způsob, jak zachránit tvora s 0 životy, je vyléčit ho. Pokud je léčení nedostupné, lze tvora alespoň stabilizovat, aby nebyl zabit neúspěšným hodem na záchranu smrti.
+
+Svou **akci** můžete použít k **poskytnutí první pomoci** tvorovi v bezvědomí a pokusit se ho stabilizovat, což vyžaduje úspěšnou kontrolu **moudrosti (medicína) OČ 10 **.
+
+Stabilní tvor nedělá záchranné hody, i když má 0 životů, ale zůstává v bezvědomí. Tvor přestane být stabilní a musí znovu začít provádět záchranné hody, pokud utrpí nějaké poškození. Stabilní tvor, který není vyléčen, získává zpět 1 život po 1k4 hodinách.
+
+**Příšery a smrt**
+
+Většina DM nechá monstrum zemřít v okamžiku, kdy klesne na 0 životů, spíše než aby upadlo do bezvědomí a provedlo záchranné hody.
+
+Mocní nepřátelé a speciální postavy jsou běžnými výjimkami; DM je může nechat upadnout do bezvědomí a řídit se stejnými pravidly jako hráčské postavy.
+
+**Omráčení tvora**
+
+Někdy chce útočník zneškodnit nepřítele místo toho, aby mu zasadil vražedný úder. Když útočník útokem na blízko sníží tvora na 0 životů, útočník může tvora omráčit. Útočník může tuto volbu provést v okamžiku, kdy je způsobeno poškození. Tvor upadne do bezvědomí a je stabilní.
+
+### Dočasné životy <a name="dočasné životy"></a>
+Některá kouzla a speciální schopnosti udělují tvorovi dočasné životy. Dočasné životy **nejsou skutečné životy;** jsou "štítem" proti poškození, zásobou životů, které vás chrání před zraněním.
+
+Když máte dočasné životy a utrpíte poškození, **dočasné životy se ztratí jako první** a jakékoli **zbylé poškození se přenese na vaše normální životy.** *Například, pokud máte 5 dočasných životů a utrpíte 7 zranění, ztratíte dočasné životy a poté utrpíte 2 zranění vašich pravých životů.*
+
+Protože dočasné životy jsou oddělené od vašich skutečných životů, mohou překročit vaše maximum životů. Postava tedy může mít plný počet životů a získat dočasné životy.
+
+**Léčení nemůže obnovit dočasné životy a nelze je sčítat.** Pokud máte dočasné životy a dostáváte jich více, rozhodnete se, zda si ponecháte ty, které máte, nebo získáte nové. *Například, pokud vám kouzlo udělí 12 dočasných životů, když už jich máte 10, můžete mít 12 nebo 10, ne 22.*
+
+**Pokud máte 0 životů, příjem dočasných životů vás neobnoví ani nestabilizuje.** Stále mohou **absorbovat poškození namířené na vás, když jste v tomto stavu, ale zachránit vás může pouze skutečné léčení.**
+Pokud funkce, která vám uděluje dočasné životy, nemá trvání, vydrží, dokud nejsou vyčerpány nebo dokud nedokončíte dlouhý odpočinek.
