@@ -45,7 +45,7 @@ Lehká zbraň je malá a snadno se s ní manipuluje, takže je ideální pro pou
 ### Nabíjecí <a name="nabíjecí"></a>
 Vzhledem k času potřebnému k nabití této zbraně z ní můžete vystřelit pouze jeden kus munice, když **k vypálení použijete akci, bonusovou akci nebo reakci,** bez ohledu na počet útoků, které můžete normálně provést.
 
-## Dosah/rozsah <a name="dosah/rozsah"></a>
+### Dosah/rozsah <a name="dosah/rozsah"></a>
 Zbraň, kterou lze použít k útoku na dálku, má v závorce za municí nebo hozenou vlastností dostřel. Rozsah uvádí dvě čísla. První je normální dosah zbraně ve stopách a druhý udává dlouhý dosah zbraně. Když útočíte na cíl **mimo normální dostřel, máte nevýhodu v hodu na útok**. Nemůžete zaútočit na cíl mimo dosah zbraně.
 
 ### Dlouhé <a name="Dlouhé"></a>
