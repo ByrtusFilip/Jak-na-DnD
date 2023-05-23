@@ -326,7 +326,7 @@ Různé útoky, škodlivá kouzla a další škodlivé efekty způsobují různ�
 Následují typy poškození:
 
 - Kyselina : Korozivní sprška dechu černého draka a rozpouštěcí enzymy vylučované černým pudinkem způsobují poškození kyselinou.
-- Tupé : Útoky tupou silou – kladiva , pády , sevření a podobně – způsobí údery.
+- Drtivé : Útoky tupou silou – kladiva , pády , sevření a podobně – způsobí drtivé údery.
 - Chladné : Pekelný chlad vyzařující z ledového ďáblakopí a mrazivý výbuch dechu bílého draka způsobí chladné poškození.
 - Ohnivé : Červení draci dýchají oheň a mnoho kouzel vykouzlí plameny a způsobí poškození ohněm.
 - Sílové : Síla je čistá magická energie zaměřená do ničivé formy. Většina efektů, které způsobují silové poškození, jsou kouzla, včetně magické střely a duchovní zbraně.
