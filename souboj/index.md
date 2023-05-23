@@ -236,7 +236,7 @@ Chcete-li provést hod na útok, hoďte k20 a přidejte příslušné modifikát
 ### Modifikátory hodu <a name="modifikátor hodu"></a>
 Když postava hodí na útok, dva nejběžnější modifikátory hodu jsou modifikátor schopností a bonus za odbornost/zdatnost postavy. Když nestvůra hodí na útok, použije jakýkoli modifikátor, který má v bloku statistik.
 
-**Modifikátor schopnosti**: Modifikátor schopnosti používaný pro **útok zbraní na blízko** je **Síla** a modifikátor schopnosti používaný pro útok **zbraní na dálku** je **Obratnost**. Zbraně, které mají fines (šikovné) nebo házenou vlastnost, toto pravidlo porušují (šikovné zbraně mohou používat buď sílu nebo obratnost). Některá kouzla také vyžadují hod na útok. Modifikátor schopnosti použitý pro útok kouzla závisí na schopnosti sesílat zaklínadla dané postavy a třídy. (u bardů je to Charisma, u Druidů je to Moudrost, atd.)
+**Modifikátor schopnosti**: Modifikátor schopnosti používaný pro **útok zbraní na blízko** je **Síla** a modifikátor schopnosti používaný pro útok **zbraní na dálku** je **Obratnost**. Zbraně, které mají finesu (vytříbenost) nebo házenou vlastnost, toto pravidlo porušují (šikovné zbraně mohou používat buď sílu nebo obratnost). Některá kouzla také vyžadují hod na útok. Modifikátor schopnosti použitý pro útok kouzla závisí na schopnosti sesílat zaklínadla dané postavy a třídy. (u bardů je to Charisma, u Druidů je to Moudrost, atd.)
 
 **Bonus za odbornost/zdatnost**: K hodu na útok přidáte bonus za svou odbornost/zdatnost, když útočíte pomocí zbraně, **kterou ovládáte**, a také když **útočíte kouzlem.**
 
@@ -332,11 +332,11 @@ Následují typy poškození:
 - Sílové : Síla je čistá magická energie zaměřená do ničivé formy. Většina efektů, které způsobují silové poškození, jsou kouzla, včetně magické střely a duchovní zbraně.
 - Bleskové : Kouzlo blesku a dech modrého draka způsobí poškození bleskem.
 - Necrotické : Nekrotické poškození, způsobené určitými nemrtvými a kouzlem, jako je chill touch, vadne hmota a dokonce i duše.
-- Propichování : Propichovací a napichovací útoky, včetně oštěpů a kousnutí příšer, způsobují bodavé poškození.
+- Bodné : Bodné a napichovací útoky, včetně oštěpů a kousnutí příšer, způsobují bodavé poškození.
 - Jed : Jedovatá bodnutí a toxický plyn dechu zeleného draka způsobují jedové poškození.
 - Psychické : Mentální schopnosti, jako je psionický výbuch mysliveckého flayeru, způsobují psychické poškození.
 - Paprskovité : Paprskové světlo, způsobené klerikovým plamenným kouzlem nebo andělskou udeřící zbraní, sežehne maso jako oheň a přetíží ducha silou.
-- Řezné : Meče, sekery a drápy monster způsobují sekání poškození.
+- Sečné : Meče, sekery a drápy monster způsobují sečné poškození.
 - Hromové : Otřesný výbuch zvuku, jako je účinek kouzla hromová vlna, způsobí poškození hromu.
 
 ### Odolnost proti poškození a zranitelnost <a name="odolnost a zranitelnost"></a>
