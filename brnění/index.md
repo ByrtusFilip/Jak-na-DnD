@@ -23,8 +23,7 @@ Fantasy herní světy jsou obrovskou tapisérií tvořenou mnoha různými kultu
     5. [Deska](#deska)
 6. [Štíty](#štíty)
 7. [Oblékání a svlékání zbroje](#oblékání a svlékání)
-
-*Tabulka brnění ukazuje cenu, hmotnost a další vlastnosti běžných typů brnění, které se nosí ve fantasy herních světech.*
+8. [Tabulka brnění v D&D](#armor_table)
 
 ## Zdatnost brnění <a name="zdatnost brnění"></a>
 Kdokoli si může obléknout brnění nebo připevnit štít na paži. Jen ti, kdo jsou zdatní v používání brnění, však vědí, jak je efektivně nosit. Vaše třída vám dává dovednosti s určitými typy brnění. Pokud nosíte brnění, se kterým **nejste dostatečně zdatní**, máte **nevýhodu v jakékoli kontrole schopností,  záchranném hodu nebo hodu na útok , který zahrnuje sílu nebo obratnost, a nemůžete sesílat kouzla**.
@@ -93,3 +92,8 @@ Doba potřebná k nasazení nebo sejmutí brnění závisí na kategorii zbroje.
 Don : To je doba potřebná k oblékání brnění. Z OČ brnění budete mít prospěch pouze tehdy, pokud budete mít plný čas na oblékání brnění.
 
 Doff : Toto je čas, který trvá sundat brnění. Pokud máte pomoc, zkraťte tuto dobu na polovinu.
+
+## *Tabulka brnění ukazuje cenu, hmotnost a další vlastnosti běžných typů brnění, které se nosí ve fantasy herních světech.*
+<a name="armor_table"></a>
+
+<img src="armor_table.png" alt="Tabulka brnění" title="Tabulka brnění">
