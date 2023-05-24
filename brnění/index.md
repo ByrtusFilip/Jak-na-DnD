@@ -34,31 +34,31 @@ Brnění chrání svého nositele před útoky. Brnění (a štít), které nos�
 ## Lehké brnění <a name="lehké brnění"></a>
 Lehká zbroj vyrobená z poddajných a tenkých materiálů upřednostňuje **hbité** dobrodruhy, protože nabízí určitou ochranu bez obětování mobility. Pokud nosíte lehké brnění, **přidáte** svůj modifikátor **Obratnosti** k **základnímu číslu svého typu zbroje**, abyste určili svou třídu zbroje.
 
-### Polstrované <a name="polstrované"></a>
+### Vycpaná <a name="vycpaná"></a>
 Polstrované brnění se skládá z prošívaných vrstev látky a vatelínu.
 
-### Kůže <a name="kůže"></a>
+### Kožená <a name="kožená"></a>
 Náprsník a chrániče ramen této zbroje jsou vyrobeny z kůže, která byla vyztužena vyvařením v oleji. Zbytek brnění je vyroben z měkčích a pružnějších materiálů.
 
-### Kůže s cvočky <a name="kůže se cvočky"></a>
+### Okovaná kožená <a name="okovaná kožená"></a>
 Vyrobena z pevné, ale pružné kůže, kůže s cvočky je vyztužena těsně nasazenými nýty nebo hroty.
 
 ## Střední brnění <a name="střední brnění"></a>
 Střední brnění nabízí větší ochranu než lehké brnění, ale také více zhoršuje pohyb. Pokud nosíte střední brnění, přidáte svůj **modifikátor Obratnost**, **maximálně na +2**, k základnímu číslu z vašeho typu zbroje, abyste určili svou třídu zbroje.
 
-### Kožešinové <a name="kožešinové"></a>
+### Usňová <a name="usňová"></a>
 Toto hrubé brnění se skládá z hustých kožešin a kožešin. Běžně ho nosí barbarské kmeny, zlí humanoidi a další lidé, kteří nemají přístup k nástrojům a materiálům potřebným k vytvoření lepšího brnění.
 
-### Řetízkové triko <a name="řetížkové triko"></a>
+### Drátěná košile <a name="drátěná košile"></a>
 Vyrobeno z do sebe zapadajících kovových kroužků, řetízková košile se nosí mezi vrstvami oblečení nebo kůže. Toto brnění nabízí skromnou ochranu horní části těla nositele a umožňuje tlumení zvuku prstenů, které se o sebe třou, vnějšími vrstvami.
 
-### Kovové šupiny <a name="kovové šupiny"></a>
+### Šupinová <a name="šupinová"></a>
 Toto brnění se skládá z kabátu a legín (a možná i samostatné sukně) z kůže pokryté překrývajícími se kusy kovu, podobně jako šupiny ryby. Součástí obleku jsou rukavice.
 
-### Hrudní plát <a name="hrudní plát"></a>
+### Kyrys <a name="kyrys"></a>
 Toto brnění se skládá z připevněného kovového hrudního kusu, který je opatřen pružnou kůží. Přestože nechává nohy a paže relativně nechráněné, poskytuje dobrou ochranu životně důležitým orgánům nositele, přičemž nositele nechává relativně nezatížený.
 
-### Poloviční plát <a name="poloviční plát"></a>
+### Poloplátová <a name="poloplátová"></a>
 Poloviční plát se skládá z tvarovaných kovových plátů, které pokrývají většinu těla nositele. Nezahrnuje ochranu nohou kromě jednoduchých škvarků, které jsou připevněny koženými řemínky.
 
 ## Težké brnění <a name="těžké brnění"></a>
@@ -74,13 +74,13 @@ Pokud se v tabulce brnění ve sloupci **Neviditelnost** zobrazí „**Nevýhoda
 ### Kroužková zbroj <a name="kroužková zbroj"></a>
 Toto brnění je kožené brnění s všitými těžkými kroužky. Prsteny pomáhají posílit brnění proti úderům mečů a seker. Prstencová pošta je podřadná než řetězová pošta a obvykle ji nosí pouze ti, kteří si nemohou dovolit lepší brnění.
 
-### Řetězová košile <a name="řetězová košile"></a>
+### Drátěná košile <a name="drátěná košile"></a>
 Řetězová košile je vyrobena z do sebe zapadajících kovových kroužků a obsahuje vrstvu prošívané látky, která se nosí pod brněním, aby se zabránilo tření a zmírnila dopad úderů. Součástí obleku jsou rukavice.
 
-### Dlaha <a name="dlaha"></a>
+### Lamelová <a name="lamelová"></a>
 Tato zbroj je vyrobena z úzkých svislých proužků kovu přinýtovaných k podložce z kůže, která se nosí přes látkové vycpávky. Pružná řetězová mříž chrání klouby.
 
-### Deska <a name="deska"></a>
+### Plátová <a name="plátová"></a>
 Deska se skládá z tvarovaných, do sebe zapadajících kovových desek, které pokrývají celé tělo. Talířový oblek obsahuje rukavice, těžké kožené boty, helmu s hledím a silné vrstvy vycpávky pod brněním. Přezky a popruhy rozloží váhu na tělo.
 
 ## Štíty <a name="štíty"></a>
