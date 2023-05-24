@@ -1,5 +1,5 @@
 # Brnění
-Fantasy herní světy jsou obrovskou tapisérií tvořenou mnoha různými kulturami, z nichž každá má svou vlastní technologickou úroveň. Z tohoto důvodu mají dobrodruzi přístup k různým typům brnění, od kožené zbroje přes drátěnou zbroj až po drahé plátové brnění, s několika dalšími druhy brnění mezi nimi. Tabulka Armor shromažďuje nejběžněji dostupné typy brnění ve hře a rozděluje je do tří kategorií: **lehké brnění, střední brnění a těžké brnění**. Mnoho válečníků doplňuje své brnění štítem.
+Fantasy herní světy jsou obrovskou tapisérií tvořenou mnoha různými kulturami, z nichž každá má svou vlastní technologickou úroveň. Z tohoto důvodu mají dobrodruzi přístup k různým typům brnění, od kožené zbroje přes drátěnou zbroj až po drahé plátové brnění, s několika dalšími druhy brnění mezi nimi. Tabulka shromažďuje nejběžněji dostupné typy brnění ve hře a rozděluje je do tří kategorií: **lehké brnění, střední brnění a těžké brnění**. Mnoho válečníků doplňuje své brnění štítem.
 
 <img src="banner-brnění.png" alt="Banner pro sekci brnění" title="Banner - brnění">
 
