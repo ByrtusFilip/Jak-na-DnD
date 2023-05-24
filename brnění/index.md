@@ -6,21 +6,21 @@ Fantasy herní světy jsou obrovskou tapisérií tvořenou mnoha různými kultu
 1. [Zdatnost brnění](#zdatnost brnění)
 2. [Třída brnění](#třída brnění)
 3. [Lehké brnění](#lehké brnění)
-    1. [Polstrované](#polstrované)
-    2. [Kůže](#kůže)
-    3. [Kůže s cvočky](#kůže s cvočky)
+    1. [Vycpaná](#vycpaná)
+    2. [Kožená](#kožená)
+    3. [Okovaná kožená](#okovaná kožená)
 4. [Střední brnění](#střední brnění)
-    1. [Kožešinové](#kožešinové)
-    2. [Řetížkové triko](#řetízkové triko)
-    3. [Kovové šupiny](#kovové šupiny)
-    4. [Hrudní plát](#hrudní plát)
-    5. [Poloviční plát](#poloviční plát)
+    1. [Usňová](#usňová)
+    2. [Drátěná košile](#drátěná košile)
+    3. [Šupinová](#šupinová)
+    4. [Kyrys](#kyrys)
+    5. [Poloplátová](#poloplátová)
 5. [Těžké brnění](#těžké brnění)
     1. [Neviditelnost](#neviditelnost)
     2. [Kroužková zbroj](#kroužková zbroj)
-    3. [Řetězová košile](#řetězová košile)
-    4. [Dlaha](#dlaha)
-    5. [Deska](#deska)
+    3. [Drátěná zbroj](#drátěná zbroj)
+    4. [Lamelová](#lamelová)
+    5. [Plátová](#plátová)
 6. [Štíty](#štíty)
 7. [Oblékání a svlékání zbroje](#oblékání a svlékání)
 8. [Tabulka brnění v D&D](#armor_table)
@@ -74,7 +74,7 @@ Pokud se v tabulce brnění ve sloupci **Neviditelnost** zobrazí „**Nevýhoda
 ### Kroužková zbroj <a name="kroužková zbroj"></a>
 Toto brnění je kožené brnění s všitými těžkými kroužky. Prsteny pomáhají posílit brnění proti úderům mečů a seker. Prstencová pošta je podřadná než řetězová pošta a obvykle ji nosí pouze ti, kteří si nemohou dovolit lepší brnění.
 
-### Drátěná košile <a name="drátěná košile"></a>
+### Drátěná zbroj <a name="drátěná zbroj"></a>
 Řetězová košile je vyrobena z do sebe zapadajících kovových kroužků a obsahuje vrstvu prošívané látky, která se nosí pod brněním, aby se zabránilo tření a zmírnila dopad úderů. Součástí obleku jsou rukavice.
 
 ### Lamelová <a name="lamelová"></a>
